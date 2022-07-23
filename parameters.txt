@@ -1,0 +1,2 @@
+color iconos
+#ff4500
